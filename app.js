@@ -125,5 +125,5 @@ function reiniciarJogo() {
 
     document.getElementById('chutar').innerHTML = 'Iniciar'; // recoloca o nome iniciar no lugar de chutar
     trocarIdSetup(); // chama função para troca do id
-    setup(); // inicia o jogo novamente
+    setup(); // iniciar o jogo novamente
 }
