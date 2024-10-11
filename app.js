@@ -1,7 +1,7 @@
 // Iniciando variavel que controla a quantidade de jogadas
 let maximoTentativas = 0
 
-// Função para limpar campo sempre que houve interação
+// Função para limpar campo sempre que houver interação
 function limparCampo() {
     let reset = document.querySelector('input');
     reset.value = '';
